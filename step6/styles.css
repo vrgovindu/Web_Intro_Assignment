@@ -1,0 +1,13 @@
+#main-title {
+    text-align: center;
+    font-family: Verdana;
+}
+
+.content {
+    margin-bottom: 12px;
+}
+
+body {
+    background-color: bisque;
+    font-family: Georgia;
+}
